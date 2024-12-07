@@ -19,7 +19,7 @@ We welcome contributions from developers and collaborators! Please read the foll
 ## Get Started  
 
 1. Fork the repository.  
-2. Follow the [Contribution Guidelines](./CONTRIBUTION.md) to set up your local environment.  
+2. Follow the [Contribution Guidelines](./CONTRIBUTING.md) to set up your local environment.  
 3. Submit issues or pull requests to improve the project.  
 
 Thank you for helping us create an exceptional platform!  
