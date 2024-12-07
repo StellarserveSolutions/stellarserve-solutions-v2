@@ -57,6 +57,9 @@ git push origin feature/your-feature-name
 
 ---
 
+## Checkout the detailed guidelines on pull requests and issues 
+- [Pull Request and Issues Guidelines](./GUIDELINES_FOR_PULL_REQUEST_AND_ISSUES.md)
+
 ## Helpful Commands  
 ### Viewing Changes Before Committing  
 Check your staged changes:  
